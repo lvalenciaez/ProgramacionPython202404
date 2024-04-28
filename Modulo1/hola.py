@@ -4,4 +4,9 @@
 # cd -> cambiar directorio sobre terminal
 # python <nombre_archivo>.py -> para ejecutar mi programa python sobre la terminal
 
-print('hola mundo')
+
+x = "hola mundo"
+
+print(x)
+
+6 +8 
